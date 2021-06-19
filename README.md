@@ -54,8 +54,6 @@ Task description:
         The result file looks exactly like the canvas in the application
     **Shape properties**
         On the left side of the top panel, to the right of existing buttons there are 4 new controls stacked on top of each other. They are used to modify shape width, height, fill color and rotation angle
-        Each field has a label on its left
-        Labels are aligned to the right
         Width and height fields accept only positive integer values and the values are applied immediately to a shape
         Color can be selected from the list of all the colors found in System.Windows.Media.Colors, except for Transparent
         Angle label ends with currently selected angle integer value
