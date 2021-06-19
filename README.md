@@ -3,7 +3,8 @@
 An app which allows creating a picture with rectangles and ellipses.
 Task description:
 
-   **Main window**
+
+    **Main window**
         When the application starts the window is in the maximized state, filling an entire screen
         Font size is set to 16
     **Layout**
