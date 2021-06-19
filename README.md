@@ -1,6 +1,6 @@
 # mini-paint
 
-An app which allows creating a picture with rectangles and ellipses, created with WPF.
+An app which allows creating a picture with rectangles and ellipses, created using WPF.
 Task description:
 
 
